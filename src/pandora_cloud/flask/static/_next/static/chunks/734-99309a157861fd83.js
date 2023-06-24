@@ -16307,7 +16307,7 @@
                                                                                 clientThreadId: Q,
                                                                                 onNewThread: el,
                                                                                 onClickOpenSidebar: tG,
-                                                                                title: null !== (W = S.tQ.getTitle(Q)) && void 0 !== W ? W : "New chat"
+                                                                                title: null !== (W = S.tQ.getTitle(Q)) && void 0 !== W ? W : "Hammer Chat"
                                                                             })
                                                                     }), (0,
                                                                         w.jsxs)(us, {
