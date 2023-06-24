@@ -13273,14 +13273,14 @@
         var lc = (0,
             K.vU)({
                 bili: {
-                    // id: "navigation.bili",
-                    // defaultMessage: "站长BiliBili主页",
-                    // description: "访问站长B站主页"
+                    id: "",
+                    defaultMessage: "",
+                    description: ""
                 },
                 helpAndFaq: {
-                    // id: "navigation.helpAndFaq",
-                    // defaultMessage: "访问该项目GitHub主页",
-                    // description: "GitHub menu item"
+                    id: "",
+                    defaultMessage: "",
+                    description: ""
                 },
                 confirmClearConversations: {
                     id: "navigation.confirmClearConversations",
